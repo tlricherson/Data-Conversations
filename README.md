@@ -1,4 +1,5 @@
-# Walls that invite others in: Transform your conversations about data #
+# Walls that invite others in
+# _Transform your conversations about data_ #
 ## 2017 WERA annual conference ##
 
 ### Session description ###
@@ -7,4 +8,5 @@ Public narratives about schools often focus on measures of student performance. 
 ### Contact ###
 Tara Richerson, Supervisor for data and assessment
 Tumwater School District
+
 [tara.richerson@tumwater.k12.wa.us](mailto:tara.richerson@tumwater.k12.wa.us)
