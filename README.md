@@ -1,4 +1,3 @@
-<br/>
 <p align="center"> 
 <img src="https://github.com/tlricherson/Transform-Data-Conversations/blob/master/graphics/Cover.png" height="500">
 </p>
