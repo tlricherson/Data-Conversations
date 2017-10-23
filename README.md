@@ -1,6 +1,6 @@
 <br/>
 <p align="center"> 
-<img src="https://github.com/tlricherson/Transform-Data-Conversations/blob/master/graphics/Cover.png" height="300">
+<img src="https://github.com/tlricherson/Transform-Data-Conversations/blob/master/graphics/Cover.png" height="500">
 </p>
 
 #### Session description ####
@@ -8,7 +8,5 @@ Public narratives about schools often focus on measures of student performance. 
 
 #### Contact ####
 Tara Richerson, Supervisor for Data and Assessment
-
 Tumwater School District
-
 [tara.richerson@tumwater.k12.wa.us](mailto:tara.richerson@tumwater.k12.wa.us)
