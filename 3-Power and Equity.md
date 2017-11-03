@@ -22,3 +22,7 @@ Turkle, S., & Papert, S. (1992). [Epistemological pluralism and the revaluation 
 
 ## Bunny trails ##
 How do we develop more pluralistic data designs---ones which are inclusive of ideas from the full spectrum of genders, races, and cultures? What is the history of this work? Check out how [W.E.B. DuBois represented African-American life in 1900](http://publicdomainreview.org/collections/w-e-b-du-bois-hand-drawn-infographics-of-african-american-life-1900/), [Florence Nightingale](https://www.sciencenews.org/article/florence-nightingale-passionate-statistician), or the work of [Elizabeth Peabody](http://lklein.com/2014/12/visualization-as-argument/) shared by Lauren Klein.
+
+[Lena Groeger](https://twitter.com/lenagroeger) of ProPublica reminds us that "The data doesn't speak for itself---it echoes its collectors." Watch her 2017 Tapestry presentation on [When the storyteller shows up in the story](https://youtu.be/TvJYDz8849g) to think more about how various biases show up in the visuals we produce.
+
+Watch the 2016 Eyeo presentation, [Setting Tangents around a Circle](https://vimeo.com/176869833), from [Josh Begley](https://twitter.com/joshbegley) and consider the impact of our choices about which data to include or exclude.
