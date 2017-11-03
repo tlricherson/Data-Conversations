@@ -20,3 +20,5 @@ Segel, E., & Heer, J. (2010). [Narrative visualization: Telling stories with dat
 
 ## Bunny trails ##
 Last year, we started building and sharing a new type of data wall in our district---one which was designed to encourage a broader conversation. Learn more about our [district data stories](https://www.tumwater.k12.wa.us/Page/7852).
+
+Stories can take many formats. Have you ever tried to imagine how a fish soup tastes whose recipe is based on publicly available local fishing data? Or what a pizza would be like if it was based on Helsinki’s population mix? [Data Cuisine](http://data-cuisine.net/), led by [Moritz Stefaner](https://twitter.com/moritz_stefaner), explores food as a means of data expression - or, if you like – edible diagrams.
