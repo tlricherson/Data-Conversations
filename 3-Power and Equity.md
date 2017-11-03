@@ -21,3 +21,6 @@ Kim, Y. S., Reinecke, K., & Hullman, J. (2017). [Data Through Others' Eyes: The 
 Kosara, R., & Mackinlay, J. (2013). Storytelling: The next step for visualization. Computer, 46(5), 44-50.
 
 Turkle, S., & Papert, S. (1992). [Epistemological pluralism and the revaluation of the concrete](http://web.mit.edu/sturkle/www/pdfsforstwebpage/ST_Epistemo%20Pluralism.pdf). Journal of Mathematical Behavior, 11(1), 3-33.
+
+## Bunny trails ##
+How do we develop more pluralistic data designs---ones which are inclusive of ideas from the full spectrum of genders, races, and cultures? What is the history of this work? Check out how [W.E.B. DuBois represented African-American life in 1900](http://publicdomainreview.org/collections/w-e-b-du-bois-hand-drawn-infographics-of-african-american-life-1900/), Florence Nightingale, or the work of [Elizabeth Peabody](http://lklein.com/2014/12/visualization-as-argument/) shared by Lauren Klein.
