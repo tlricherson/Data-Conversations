@@ -11,5 +11,9 @@ Kosara, R., & Mackinlay, J. (2013). [Storytelling: The next step for visualizati
 
 Lee, B., Riche, N. H., Isenberg, P., & Carpendale, S. (2015). [More than telling a story: Transforming data into visually shared stories](https://hal.inria.fr/hal-01158445/document). IEEE computer graphics and applications, 35(5), 84-90.
 
+Louchart, S., & Aylett, R. (2004). [Narrative theory and emergent interactive narrative](https://s3.amazonaws.com/academia.edu.documents/2727972/2g5a3wt0lcxskfr.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1509729986&Signature=YGHmyxGvdRLrM0y956F4b3vKmAs%3D&response-content-disposition=inline%3B%20filename%3DNarrative_theory_and_emergent_interactiv.pdf). International Journal of Continuing Engineering Education and Life Long Learning, 14(6), 506-518.
+
+Ma, K. L., Liao, I., Frazier, J., Hauser, H., & Kostis, H. N. (2012). [Scientific storytelling using visualization](http://vis.cs.ucdavis.edu/papers/Scientific_Storytelling_CGA.pdf). IEEE Computer Graphics and Applications, 32(1), 12-19.
+
 Segel, E., & Heer, J. (2010). [Narrative visualization: Telling stories with data](https://egerber.mech.northwestern.edu/wp-content/uploads/2015/02/Narrative_Visualization.pdf). IEEE transactions on visualization and computer graphics, 16(6), 1139-1148.
 
