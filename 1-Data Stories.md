@@ -7,6 +7,8 @@ Boy, J., Detienne, F., & Fekete, J. D. (2015, April). [Storytelling in informati
 
 Hullman, J., & Diakopoulos, N. (2011). [Visualization rhetoric: Framing effects in narrative visualization](http://faculty.washington.edu/jhullman/vis_rhetoric.pdf). IEEE transactions on visualization and computer graphics, 17(12), 2231-2240.
 
+Kosara, R., & Mackinlay, J. (2013). [Storytelling: The next step for visualization](http://dataplusscience.com/files/Kosara_Computer_2013.pdf). Computer, 46(5), 44-50.
+
 Lee, B., Riche, N. H., Isenberg, P., & Carpendale, S. (2015). [More than telling a story: Transforming data into visually shared stories](https://hal.inria.fr/hal-01158445/document). IEEE computer graphics and applications, 35(5), 84-90.
 
 Segel, E., & Heer, J. (2010). [Narrative visualization: Telling stories with data](https://egerber.mech.northwestern.edu/wp-content/uploads/2015/02/Narrative_Visualization.pdf). IEEE transactions on visualization and computer graphics, 16(6), 1139-1148.
