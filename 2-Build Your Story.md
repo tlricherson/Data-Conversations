@@ -22,5 +22,7 @@ Looking for some inspiration? Check out [Dear Data](http://www.dear-data.com/the
 
 Visit the [Instagram](https://www.instagram.com/monachalabi/) feed of data editor [Mona Chalabi](https://twitter.com/MonaChalabi) for hand drawn charts on a variety of topics. Also, check out the work of [Catherine Madden](https://twitter.com/catmule) who integrates data, design, and drawing.
 
+ProPublica has shared all of materials from their [Data Institute](https://www.propublica.org/nerds/announcing-free-videos-and-training-materials-from-the-propublica-data-institute). You can access slides, handouts, and videos of the work they do with journalists to present data on the web.
+
 Sometimes, as data designers, you have to [kill your darlings](http://www.slate.com/blogs/browbeat/2013/10/18/_kill_your_darlings_writing_advice_what_writer_really_said_to_murder_your.html), or as Dan Greenberg said, "Marry the problem, not the solution." However, there is much to be learned from sharing the process that leads to the final story. Here are a few examples:
 * [Nicholas Rougeux](https://twitter.com/rougeux) has shared not only the process he used to create [visualizations of classical music](https://www.c82.net/blog/?id=72), but also many of the various iterations of ideas he had. 
