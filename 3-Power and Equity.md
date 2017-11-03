@@ -10,6 +10,8 @@ D’Ignazio, C., & Klein, L. F. (2016). [Feminist data visualization](http://www
 
 Drucker, J. (2011). [Humanities approaches to graphical display](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html). Digital Humanities Quarterly, 5(1), 1-21.
 
+Feinberg, M. (2017). [A design perspective on data](https://ils.unc.edu/~mfeinber/Feinberg%202017c.pdf). Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems, 2952-2963.
+
 Kim, Y. S., Reinecke, K., & Hullman, J. (2017). [Data Through Others' Eyes: The Impact of Visualizing Others' Expectations on Visualization Interpretation](http://faculty.washington.edu/jhullman/VIS17_Expectations_SocialVis.pdf). IEEE Transactions on Visualization and Computer Graphics.
 
 Kosara, R., & Mackinlay, J. (2013). Storytelling: The next step for visualization. Computer, 46(5), 44-50.
