@@ -18,8 +18,6 @@ Feinberg, M. (2017). [A design perspective on data](https://ils.unc.edu/~mfeinbe
 
 Kim, Y. S., Reinecke, K., & Hullman, J. (2017). [Data Through Others' Eyes: The Impact of Visualizing Others' Expectations on Visualization Interpretation](http://faculty.washington.edu/jhullman/VIS17_Expectations_SocialVis.pdf). IEEE Transactions on Visualization and Computer Graphics.
 
-Kosara, R., & Mackinlay, J. (2013). Storytelling: The next step for visualization. Computer, 46(5), 44-50.
-
 Turkle, S., & Papert, S. (1992). [Epistemological pluralism and the revaluation of the concrete](http://web.mit.edu/sturkle/www/pdfsforstwebpage/ST_Epistemo%20Pluralism.pdf). Journal of Mathematical Behavior, 11(1), 3-33.
 
 ## Bunny trails ##
