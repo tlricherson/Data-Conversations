@@ -16,3 +16,8 @@ Sarikaya, A., & Gleicher, M. (2017). [Scatterplots: Tasks, Data, and Designs](ht
 Stolper, C. D., Lee, B., Riche, N. H., & Stasko, J. (2017). [Emerging and recurring data-driven storytelling techniques: Analysis of a curated collection of recent stories](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/04/MSR-TR-2016-14-Storytelling-Techniques.pdf). Retrieved in January.
 
 Walny, J., Huron, S., Perin, C., Wun, T., Pusch, R., & Carpendale, S. (2017). [Active Reading of Visualizations](http://openaccess.city.ac.uk/18385/1/2018_VIS_activeReading.pdf). IEEE Transactions on Visualization and Computer Graphics.
+
+## Bunny trails ##
+Looking for some inspiration? Check out [Dear Data](http://www.dear-data.com/theproject), "a year-long, analog data drawing project by [Giorgia Lupi](https://twitter.com/giorgialupi) and [Stefanie Posavec](https://twitter.com/stefpos), two award-winning information designers living on different sides of the Atlantic. By collecting and hand drawing their personal data and sending it to each other in the form of postcards, they became friends."
+
+Visit the [Instagram](https://www.instagram.com/monachalabi/) feed of data editor [Mona Chalabi](https://twitter.com/MonaChalabi) for hand drawn charts on a variety of topics. Also, check out the work of [Catherine Madden](https://twitter.com/catmule) who integrates data, design, and drawing.
