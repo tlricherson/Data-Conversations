@@ -6,6 +6,10 @@ How do we increase equity with our data conversations? What are our powers and r
 
 
 ## Literature review ##
+Bardzell, S. (2010, April). [Feminist HCI: taking stock and outlining an agenda for design](https://pdfs.semanticscholar.org/61f2/408e1b510e5b10617abf947adfb5a35e8646.pdf). In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 1301-1310). ACM.
+
+Bardzell, S., & Bardzell, J. (2011, May). [Towards a feminist HCI methodology: social science, feminism, and HCI](https://s3.amazonaws.com/academia.edu.documents/31454793/CHI11_FeministMethods_CAMERAREADY.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1509729799&Signature=F%2FZtRGJZPQbw72M2nE5olD7FFhI%3D&response-content-disposition=inline%3B%20filename%3DTowards_a_feminist_HCI_methodology_socia.pdf). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 675-684). ACM.
+
 D’Ignazio, C., & Klein, L. F. (2016). [Feminist data visualization](http://www.kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf). In Workshop on Visualization for the Digital Humanities (VIS4DH), Baltimore. IEEE.
 
 Drucker, J. (2011). [Humanities approaches to graphical display](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html). Digital Humanities Quarterly, 5(1), 1-21.
