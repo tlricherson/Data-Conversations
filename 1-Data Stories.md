@@ -20,11 +20,14 @@ Segel, E., & Heer, J. (2010). [Narrative visualization: Telling stories with dat
 ## Examples ##
 Data stories can take many formats. Here are some online examples that may encourage you to think about presenting data differently.
 * Visit an [interactive and geographical version](https://1812.tass.ru/en#) of [Minard's famous map](https://en.wikipedia.org/wiki/Charles_Joseph_Minard) about Napoleon's march on Russia in 1812.
+* Take a look at this [introduction to hierarchical models](http://mfviz.com/hierarchical-models/) from UW.
 
 
 ## Bunny trails ##
 Last year, we started building and sharing a new type of data wall in our district---one which was designed to encourage a broader conversation. Learn more about our [district data stories](https://www.tumwater.k12.wa.us/Page/7852).
 
 Stories can take many formats. Have you ever tried to imagine how a fish soup tastes whose recipe is based on publicly available local fishing data? Or what a pizza would be like if it was based on Helsinki’s population mix? [Data Cuisine](http://data-cuisine.net/), led by [Moritz Stefaner](https://twitter.com/moritz_stefaner), explores food as a means of data expression - or, if you like – edible diagrams.
+
+[Jon Schwabish](https://twitter.com/jschwabish) has posted a [collection of blog posts, books, and other resources](https://policyviz.com/2017/03/24/more-story-references-and-resources/) on storytelling with data.
 
 We are rarely good storytellers...but why? An article from PsychCentral explores why [most people are awful storytellers](https://psychcentral.com/news/2017/02/15/why-most-people-are-awful-storytellers/116460.html) and The Book of Life provides some tips on [how to narrate your dreams](http://www.thebookoflife.org/how-to-narrate-your-dreams/). Even better, check out [The Art of Storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling), a free course from Pixar. It is part of their [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) program that helps you learn how their artists do their jobs.
