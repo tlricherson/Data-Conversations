@@ -17,3 +17,6 @@ Ma, K. L., Liao, I., Frazier, J., Hauser, H., & Kostis, H. N. (2012). [Scientifi
 
 Segel, E., & Heer, J. (2010). [Narrative visualization: Telling stories with data](https://egerber.mech.northwestern.edu/wp-content/uploads/2015/02/Narrative_Visualization.pdf). IEEE transactions on visualization and computer graphics, 16(6), 1139-1148.
 
+
+## Bunny trails ##
+Last year, we started building and sharing a new type of data wall in our district---one which was designed to encourage a broader conversation. Learn more about our [district data stories](https://www.tumwater.k12.wa.us/Page/7852).
