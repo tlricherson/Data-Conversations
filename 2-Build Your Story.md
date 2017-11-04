@@ -20,6 +20,8 @@ Walny, J., Huron, S., Perin, C., Wun, T., Pusch, R., & Carpendale, S. (2017). [A
 ## Bunny trails ##
 Looking for some inspiration? Check out [Dear Data](http://www.dear-data.com/theproject), "a year-long, analog data drawing project by [Giorgia Lupi](https://twitter.com/giorgialupi) and [Stefanie Posavec](https://twitter.com/stefpos), two award-winning information designers living on different sides of the Atlantic. By collecting and hand drawing their personal data and sending it to each other in the form of postcards, they became friends."
 
+Need inspiration? Visit the Pinterest sites of [Jon Schwabish](https://www.pinterest.com/jonschwabish/) or [Lynn Cherny](https://www.pinterest.com/arnicas/) for tagged collections of charts (good, bad, and ugly), design items, and more.
+
 Visit the [Instagram](https://www.instagram.com/monachalabi/) feed of data editor [Mona Chalabi](https://twitter.com/MonaChalabi) for hand drawn charts on a variety of topics. Also, check out the work of [Catherine Madden](https://twitter.com/catmule) who integrates data, design, and drawing.
 
 ProPublica has shared all of materials from their [Data Institute](https://www.propublica.org/nerds/announcing-free-videos-and-training-materials-from-the-propublica-data-institute). You can access slides, handouts, and videos of the work they do with journalists to present data on the web.
