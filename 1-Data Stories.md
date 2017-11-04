@@ -24,6 +24,7 @@ Data stories can take many formats. Here are some online examples that may encou
 * [Kim Rees](https://twitter.com/krees) at Periscopic led this project on visualizing [gun deaths in terms of the number of years of lives stolen](http://guns.periscopic.com/). While not an official data story, her project on [touching data](http://www.periscopic.com/news/touching-data) is also well worth consideration.
 * On Quartz, they look at the fact that [most women are reading self-help books by men](https://qz.com/1106341/most-women-reading-self-help-books-are-getting-advice-from-men/) and why this matters.
 * [The Quantified Selfie](http://quantifiedselfie.us/) publishes stories that explore "identity through data." What does our inbox, our music choices, or our online community say about us? [Trina Chiasson](https://twitter.com/trinachi) spoke about a related topic in this 2016 Tapestry short story, [The Rise of the Data Selfie](https://www.youtube.com/watch?v=sK4RDO3wPCg).
+* Visit [Rock 'n Poll](http://rocknpoll.graphics/) to learn more about why polling results should be taken with a grain of salt.
 
 
 ## Bunny trails ##
@@ -34,3 +35,5 @@ Stories can take many formats. Have you ever tried to imagine how a fish soup ta
 [Jon Schwabish](https://twitter.com/jschwabish) has posted a [collection of blog posts, books, and other resources](https://policyviz.com/2017/03/24/more-story-references-and-resources/) on storytelling with data.
 
 We are rarely good storytellers...but why? An article from PsychCentral explores why [most people are awful storytellers](https://psychcentral.com/news/2017/02/15/why-most-people-are-awful-storytellers/116460.html) and The Book of Life provides some tips on [how to narrate your dreams](http://www.thebookoflife.org/how-to-narrate-your-dreams/). Even better, check out [The Art of Storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling), a free course from Pixar. It is part of their [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) program that helps you learn how their artists do their jobs.
+
+Andy Kirk looks at [the success of "participative" visualizations](http://www.visualisingdata.com/2014/02/the-success-of-participative-visualisations/). Lots of great links here to online data stories that engage in audience to find themselves in the data.
