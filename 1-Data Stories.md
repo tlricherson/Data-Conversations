@@ -21,7 +21,9 @@ Segel, E., & Heer, J. (2010). [Narrative visualization: Telling stories with dat
 Data stories can take many formats. Here are some online examples that may encourage you to think about presenting data differently.
 * Visit an [interactive and geographical version](https://1812.tass.ru/en#) of [Minard's famous map](https://en.wikipedia.org/wiki/Charles_Joseph_Minard) about Napoleon's march on Russia in 1812.
 * Take a look at this [introduction to hierarchical models](http://mfviz.com/hierarchical-models/) from UW.
-* [Kim Rees](https://twitter.com/krees) at Periscopic led this project on visualizing [gun deaths in terms of the number of years of lives stolen](http://guns.periscopic.com/)
+* [Kim Rees](https://twitter.com/krees) at Periscopic led this project on visualizing [gun deaths in terms of the number of years of lives stolen](http://guns.periscopic.com/). While not an official data story, her project on [touching data](http://www.periscopic.com/news/touching-data) is also well worth consideration.
+* On Quartz, they look at the fact that [most women are reading self-help books by men](https://qz.com/1106341/most-women-reading-self-help-books-are-getting-advice-from-men/) and why this matters.
+* [The Quantified Selfie](http://quantifiedselfie.us/) publishes stories that explore "identity through data." What does our inbox, our music choices, or our online community say about us? [Trina Chiasson](https://twitter.com/trinachi) spoke about a related topic in this 2016 Tapestry short story, [The Rise of the Data Selfie](https://www.youtube.com/watch?v=sK4RDO3wPCg).
 
 
 ## Bunny trails ##
