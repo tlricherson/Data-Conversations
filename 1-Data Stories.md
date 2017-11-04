@@ -21,6 +21,7 @@ Segel, E., & Heer, J. (2010). [Narrative visualization: Telling stories with dat
 Data stories can take many formats. Here are some online examples that may encourage you to think about presenting data differently.
 * Visit an [interactive and geographical version](https://1812.tass.ru/en#) of [Minard's famous map](https://en.wikipedia.org/wiki/Charles_Joseph_Minard) about Napoleon's march on Russia in 1812.
 * Take a look at this [introduction to hierarchical models](http://mfviz.com/hierarchical-models/) from UW.
+* [Kim Rees](https://twitter.com/krees) at Periscopic led this project on visualizing [gun deaths in terms of the number of years of lives stolen](http://guns.periscopic.com/)
 
 
 ## Bunny trails ##
