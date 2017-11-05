@@ -18,11 +18,11 @@ Stolper, C. D., Lee, B., Riche, N. H., & Stasko, J. (2017). [Emerging and recurr
 Walny, J., Huron, S., Perin, C., Wun, T., Pusch, R., & Carpendale, S. (2017). [Active Reading of Visualizations](http://openaccess.city.ac.uk/18385/1/2018_VIS_activeReading.pdf). IEEE Transactions on Visualization and Computer Graphics.
 
 ## Inspiration ##
-Looking for some inspiration? Check out [Dear Data](http://www.dear-data.com/theproject), "a year-long, analog data drawing project by [Giorgia Lupi](https://twitter.com/giorgialupi) and [Stefanie Posavec](https://twitter.com/stefpos), two award-winning information designers living on different sides of the Atlantic. By collecting and hand drawing their personal data and sending it to each other in the form of postcards, they became friends."
+Check out [Dear Data](http://www.dear-data.com/theproject), "a year-long, analog data drawing project by [Giorgia Lupi](https://twitter.com/giorgialupi) and [Stefanie Posavec](https://twitter.com/stefpos), two award-winning information designers living on different sides of the Atlantic. By collecting and hand drawing their personal data and sending it to each other in the form of postcards, they became friends."
 
-Need inspiration? Visit the Pinterest sites of [Jon Schwabish](https://www.pinterest.com/jonschwabish/) or [Lynn Cherny](https://www.pinterest.com/arnicas/) for tagged collections of charts (good, bad, and ugly), design items, and more.
+Visit the Pinterest sites of [Jon Schwabish](https://www.pinterest.com/jonschwabish/) or [Lynn Cherny](https://www.pinterest.com/arnicas/) for tagged collections of charts (good, bad, and ugly), design items, and more.
 
-Visit the [Instagram](https://www.instagram.com/monachalabi/) feed of data editor [Mona Chalabi](https://twitter.com/MonaChalabi) for hand drawn charts on a variety of topics. Also, check out the work of [Catherine Madden](https://twitter.com/catmule) who integrates data, design, and drawing.
+[Mona Chalabi](https://twitter.com/MonaChalabi) has an [Instagram](https://www.instagram.com/monachalabi/) feed of her hand drawn charts on a variety of topics. Also, have a look the work of [Catherine Madden](https://twitter.com/catmule) who integrates data, design, and drawing.
 
 ## Tools and strategies ##
 * There are any number of collections of data viz options. For chart ideas, take a look at the [Data Viz Project](http://datavizproject.com), [The Chartmaker Directory](http://chartmaker.visualisingdata.com/), or [The Data Visualization Catalogue](http://www.datavizcatalogue.com/).
