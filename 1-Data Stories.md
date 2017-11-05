@@ -1,11 +1,32 @@
 # What a *data story* is and is not #
 
-The traditional *data wall* in a school or classroom may represent one type of story. But what are the attributes that identify it as one? How is a story using data similar to or different from traditional narratives? 
+The typical *data wall* in a school or classroom may represent one type of story. But what are the attributes that identify it as one? How is a story using data similar to or different from traditional narratives? 
 
 ## Traditional data walls ##
 [Data walls](https://twitter.com/search?q=%23datawall&src=typd) and [data binders](https://twitter.com/search?q=data%20binder&src=typd) are two of the most common types of semi-public data displays. There are entire [district cultures devoted to using these](http://qualitycommunityschools.weebly.com/data-walls.html), as well as a network of resources through the [sharing economy of blogs](http://www.thecurriculumcorner.com/thecurriculumcorner123/2014/07/student-data-binder/) and sources like Teacher Pay Teachers. 
 
 Some classroom teachers take this a step further and have students track and use their own data. There are references to this in our instructional frameworks; however, student-involved data use is a relatively new area of educational research. A selection of articles is included in the literature review section of this page. 
+
+Can a traditional data wall also be a data story? It's possible, but many do not take this path. What is the difference...and why should we care?
+
+## Data stories ##
+Last year, we started building and sharing a new type of data wall in our district---one which was designed to encourage a broader conversation. Learn more about our [district data stories](https://www.tumwater.k12.wa.us/Page/7852).
+
+### Examples ###
+Data stories can take many formats. Here are some online examples that may encourage you to think about presenting data differently.
+* Visit an [interactive and geographical version](https://1812.tass.ru/en#) of [Minard's famous map](https://en.wikipedia.org/wiki/Charles_Joseph_Minard) about Napoleon's march on Russia in 1812.
+* Take a look at this [introduction to hierarchical models](http://mfviz.com/hierarchical-models/) from UW.
+* [Kim Rees](https://twitter.com/krees) at Periscopic led this project on visualizing [gun deaths in terms of the number of years of lives stolen](http://guns.periscopic.com/). While not an official data story, her project on [touching data](http://www.periscopic.com/news/touching-data) is also well worth consideration.
+* On Quartz, they look at the fact that [most women are reading self-help books by men](https://qz.com/1106341/most-women-reading-self-help-books-are-getting-advice-from-men/) and why this matters.
+* [The Quantified Selfie](http://quantifiedselfie.us/) publishes stories that explore "identity through data." What does our inbox, our music choices, or our online community say about us? [Trina Chiasson](https://twitter.com/trinachi) spoke about a related topic in this 2016 Tapestry short story, [The Rise of the Data Selfie](https://www.youtube.com/watch?v=sK4RDO3wPCg).
+* Visit [Rock 'n Poll](http://rocknpoll.graphics/) to learn more about why polling results should be taken with a grain of salt.
+* Andy Kirk looks at [the success of "participative" visualizations](http://www.visualisingdata.com/2014/02/the-success-of-participative-visualisations/). Lots of great links here to online data stories that engage in audience to find themselves in the data.
+* Stories can take many formats. Have you ever tried to imagine how a fish soup tastes whose recipe is based on publicly available local fishing data? Or what a pizza would be like if it was based on Helsinki’s population mix? [Data Cuisine](http://data-cuisine.net/), led by [Moritz Stefaner](https://twitter.com/moritz_stefaner), explores food as a means of data expression - or, if you like – edible diagrams.
+
+### Background ###
+[Jon Schwabish](https://twitter.com/jschwabish) has posted a [collection of blog posts, books, and other resources](https://policyviz.com/2017/03/24/more-story-references-and-resources/) on storytelling with data.
+
+We are rarely good storytellers...but why? An article from PsychCentral explores why [most people are awful storytellers](https://psychcentral.com/news/2017/02/15/why-most-people-are-awful-storytellers/116460.html) and The Book of Life provides some tips on [how to narrate your dreams](http://www.thebookoflife.org/how-to-narrate-your-dreams/). Even better, check out [The Art of Storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling), a free course from Pixar. It is part of their [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) program that helps you learn how their artists do their jobs.
 
 ## Literature review ##
 Boy, J., Detienne, F., & Fekete, J. D. (2015, April). [Storytelling in information visualizations: Does it engage users to explore data?](http://www.cs.tufts.edu/comp/250VIS/papers/CHI2015-Storytelling.pdf). In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 1449-1458). ACM.
@@ -21,24 +42,3 @@ Louchart, S., & Aylett, R. (2004). [Narrative theory and emergent interactive na
 Ma, K. L., Liao, I., Frazier, J., Hauser, H., & Kostis, H. N. (2012). [Scientific storytelling using visualization](http://vis.cs.ucdavis.edu/papers/Scientific_Storytelling_CGA.pdf). IEEE Computer Graphics and Applications, 32(1), 12-19.
 
 Segel, E., & Heer, J. (2010). [Narrative visualization: Telling stories with data](https://egerber.mech.northwestern.edu/wp-content/uploads/2015/02/Narrative_Visualization.pdf). IEEE transactions on visualization and computer graphics, 16(6), 1139-1148.
-
-## Examples of data stories ##
-Data stories can take many formats. Here are some online examples that may encourage you to think about presenting data differently.
-* Visit an [interactive and geographical version](https://1812.tass.ru/en#) of [Minard's famous map](https://en.wikipedia.org/wiki/Charles_Joseph_Minard) about Napoleon's march on Russia in 1812.
-* Take a look at this [introduction to hierarchical models](http://mfviz.com/hierarchical-models/) from UW.
-* [Kim Rees](https://twitter.com/krees) at Periscopic led this project on visualizing [gun deaths in terms of the number of years of lives stolen](http://guns.periscopic.com/). While not an official data story, her project on [touching data](http://www.periscopic.com/news/touching-data) is also well worth consideration.
-* On Quartz, they look at the fact that [most women are reading self-help books by men](https://qz.com/1106341/most-women-reading-self-help-books-are-getting-advice-from-men/) and why this matters.
-* [The Quantified Selfie](http://quantifiedselfie.us/) publishes stories that explore "identity through data." What does our inbox, our music choices, or our online community say about us? [Trina Chiasson](https://twitter.com/trinachi) spoke about a related topic in this 2016 Tapestry short story, [The Rise of the Data Selfie](https://www.youtube.com/watch?v=sK4RDO3wPCg).
-* Visit [Rock 'n Poll](http://rocknpoll.graphics/) to learn more about why polling results should be taken with a grain of salt.
-
-
-## Bunny trails ##
-Last year, we started building and sharing a new type of data wall in our district---one which was designed to encourage a broader conversation. Learn more about our [district data stories](https://www.tumwater.k12.wa.us/Page/7852).
-
-Stories can take many formats. Have you ever tried to imagine how a fish soup tastes whose recipe is based on publicly available local fishing data? Or what a pizza would be like if it was based on Helsinki’s population mix? [Data Cuisine](http://data-cuisine.net/), led by [Moritz Stefaner](https://twitter.com/moritz_stefaner), explores food as a means of data expression - or, if you like – edible diagrams.
-
-[Jon Schwabish](https://twitter.com/jschwabish) has posted a [collection of blog posts, books, and other resources](https://policyviz.com/2017/03/24/more-story-references-and-resources/) on storytelling with data.
-
-We are rarely good storytellers...but why? An article from PsychCentral explores why [most people are awful storytellers](https://psychcentral.com/news/2017/02/15/why-most-people-are-awful-storytellers/116460.html) and The Book of Life provides some tips on [how to narrate your dreams](http://www.thebookoflife.org/how-to-narrate-your-dreams/). Even better, check out [The Art of Storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling), a free course from Pixar. It is part of their [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) program that helps you learn how their artists do their jobs.
-
-Andy Kirk looks at [the success of "participative" visualizations](http://www.visualisingdata.com/2014/02/the-success-of-participative-visualisations/). Lots of great links here to online data stories that engage in audience to find themselves in the data.
