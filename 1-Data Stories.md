@@ -2,6 +2,11 @@
 
 The traditional *data wall* in a school or classroom may represent one type of story. But what are the attributes that identify it as one? How is a story using data similar to or different from traditional narratives? 
 
+## Traditional data walls ##
+[Data walls](https://twitter.com/search?q=%23datawall&src=typd) and [data binders](https://twitter.com/search?q=data%20binder&src=typd) are two of the most common types of semi-public data displays. There are entire [district cultures devoted to using these](http://qualitycommunityschools.weebly.com/data-walls.html), as well as a network of resources through the [sharing economy of blogs](http://www.thecurriculumcorner.com/thecurriculumcorner123/2014/07/student-data-binder/) and sources like Teacher Pay Teachers. 
+
+Some classroom teachers take this a step further and have students track and use their own data. There are references to this in our instructional frameworks; however, student-involved data use is a relatively new area of educational research. A selection of articles is included in the literature review section of this page. 
+
 ## Literature review ##
 Boy, J., Detienne, F., & Fekete, J. D. (2015, April). [Storytelling in information visualizations: Does it engage users to explore data?](http://www.cs.tufts.edu/comp/250VIS/papers/CHI2015-Storytelling.pdf). In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 1449-1458). ACM.
 
@@ -17,7 +22,7 @@ Ma, K. L., Liao, I., Frazier, J., Hauser, H., & Kostis, H. N. (2012). [Scientifi
 
 Segel, E., & Heer, J. (2010). [Narrative visualization: Telling stories with data](https://egerber.mech.northwestern.edu/wp-content/uploads/2015/02/Narrative_Visualization.pdf). IEEE transactions on visualization and computer graphics, 16(6), 1139-1148.
 
-## Examples ##
+## Examples of data stories ##
 Data stories can take many formats. Here are some online examples that may encourage you to think about presenting data differently.
 * Visit an [interactive and geographical version](https://1812.tass.ru/en#) of [Minard's famous map](https://en.wikipedia.org/wiki/Charles_Joseph_Minard) about Napoleon's march on Russia in 1812.
 * Take a look at this [introduction to hierarchical models](http://mfviz.com/hierarchical-models/) from UW.
