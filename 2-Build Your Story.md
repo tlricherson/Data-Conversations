@@ -21,7 +21,7 @@ Sometimes, as data designers, you have to [kill your darlings](http://www.slate.
 * [Nicholas Rougeux](https://twitter.com/rougeux) has shared not only the process he used to create [visualizations of classical music](https://www.c82.net/blog/?id=72), but also many of the various iterations of ideas he had. 
 * Eleanor Lutz gives a [tour of the rough drafts and sketches](http://tabletopwhale.com/2016/10/20/rough-drafts-and-sketches.html) behind her infographic on [heartbeats and heart attacks](http://tabletopwhale.com/2016/10/19/heartbeats-and-heart-attacks.html).
 
-## Build background knowledge ##
+## Build more background knowledge ##
 ProPublica has shared all of materials from their [Data Institute](https://www.propublica.org/nerds/announcing-free-videos-and-training-materials-from-the-propublica-data-institute). You can access slides, handouts, and videos of the work they do with journalists to present data on the web.
 
 [Enrico Bertini](https://twitter.com/FILWD) posts all of his NYU [course materials on information visualization](http://enrico.bertini.io/teaching/), as does [Nick Sousanis](https://twitter.com/Nsousanis) for his classes on [comics as a way of thinking](http://spinweaveandcut.com/comics-as-thinking-15/).
