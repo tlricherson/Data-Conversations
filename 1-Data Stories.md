@@ -29,6 +29,7 @@ Data stories can take many formats. Here are some online examples that may encou
 We are rarely good storytellers...but why? An article from PsychCentral explores why [most people are awful storytellers](https://psychcentral.com/news/2017/02/15/why-most-people-are-awful-storytellers/116460.html) and The Book of Life provides some tips on [how to narrate your dreams](http://www.thebookoflife.org/how-to-narrate-your-dreams/). Even better, check out [The Art of Storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling), a free course from Pixar. It is part of their [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) program that helps you learn how their artists do their jobs.
 
 ## Literature review ##
+### Storytelling with data ###
 Boy, J., Detienne, F., & Fekete, J. D. (2015, April). [Storytelling in information visualizations: Does it engage users to explore data?](http://www.cs.tufts.edu/comp/250VIS/papers/CHI2015-Storytelling.pdf). In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 1449-1458). ACM.
 
 Hullman, J., & Diakopoulos, N. (2011). [Visualization rhetoric: Framing effects in narrative visualization](http://faculty.washington.edu/jhullman/vis_rhetoric.pdf). IEEE transactions on visualization and computer graphics, 17(12), 2231-2240.
@@ -42,3 +43,12 @@ Louchart, S., & Aylett, R. (2004). [Narrative theory and emergent interactive na
 Ma, K. L., Liao, I., Frazier, J., Hauser, H., & Kostis, H. N. (2012). [Scientific storytelling using visualization](http://vis.cs.ucdavis.edu/papers/Scientific_Storytelling_CGA.pdf). IEEE Computer Graphics and Applications, 32(1), 12-19.
 
 Segel, E., & Heer, J. (2010). [Narrative visualization: Telling stories with data](https://egerber.mech.northwestern.edu/wp-content/uploads/2015/02/Narrative_Visualization.pdf). IEEE transactions on visualization and computer graphics, 16(6), 1139-1148.
+
+### Student-involved data use ###
+Jimerson, J. B., Cho, V., & Wayman, J. C. (2016). [Student-involved data use: Teacher practices and considerations for professional learning](http://www.waymandatause.com/wp-content/uploads/2013/11/Jimerson-Cho-Wayman-2016-Student-Involved-Data-Use.pdf). Teaching and Teacher Education, 60, 413-424.
+
+Jimerson, J. B., & Reames, E. (2015). [Student-involved data use: Establishing the evidence base](https://link.springer.com/article/10.1007/s10833-015-9246-4). Journal of Educational Change, 16(3), 281-304.
+
+Kennedy, B. L., & Datnow, A. (2011). [Student involvement and data-driven decision making: Developing a new typology](https://www.researchgate.net/profile/Amanda_Datnow/publication/258200726_Student_Involvement_and_Data-Driven_Decision_Making_Developing_a_New_Typology/links/54e349de0cf2d618e1963552.pdf). Youth & Society, 43(4), 1246-1271.
+
+Vanlommel, K., Vanhoof, J., & Van Petegem, P. (2016). [Data use by teachers: The impact of motivation, decision-making style, supportive relationships and reflective capacity](http://www.tandfonline.com/doi/abs/10.1080/03055698.2016.1148582). Educational Studies, 42(1), 36-53.
