@@ -23,6 +23,6 @@ Drucker, J. (2011). [Humanities approaches to graphical display](http://www.digi
 
 Feinberg, M. (2017). [A design perspective on data](https://ils.unc.edu/~mfeinber/Feinberg%202017c.pdf). Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems, 2952-2963.
 
-Kim, Y. S., Reinecke, K., & Hullman, J. (2017). [Data Through Others' Eyes: The Impact of Visualizing Others' Expectations on Visualization Interpretation](http://faculty.washington.edu/jhullman/VIS17_Expectations_SocialVis.pdf). IEEE Transactions on Visualization and Computer Graphics.
+Kim, Y. S., Reinecke, K., & Hullman, J. (2017). [Data through others' eyes: The impact of visualizing others' expectations on visualization interpretation](http://faculty.washington.edu/jhullman/VIS17_Expectations_SocialVis.pdf). IEEE Transactions on Visualization and Computer Graphics.
 
 Turkle, S., & Papert, S. (1992). [Epistemological pluralism and the revaluation of the concrete](http://web.mit.edu/sturkle/www/pdfsforstwebpage/ST_Epistemo%20Pluralism.pdf). Journal of Mathematical Behavior, 11(1), 3-33.
