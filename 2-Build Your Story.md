@@ -2,6 +2,10 @@
 
 So, you're ready to build a data story. Now that you have your idea (and a wall or other space for the display), how do you get started? And what do you do if you get stuck?
 
+<p align="center"> 
+<img src="https://github.com/tlricherson/Data-Conversations/blob/master/graphics/Storytelling.png" align="center" height="200">
+</p>
+
 ## Inspiration ##
 Check out [Dear Data](http://www.dear-data.com/theproject), "a year-long, analog data drawing project by [Giorgia Lupi](https://twitter.com/giorgialupi) and [Stefanie Posavec](https://twitter.com/stefpos), two award-winning information designers living on different sides of the Atlantic. By collecting and hand drawing their personal data and sending it to each other in the form of postcards, they became friends."
 
