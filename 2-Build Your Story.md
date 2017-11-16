@@ -39,6 +39,8 @@ Some Twitter bots may provoke your thinking about the difference between *lookin
 
 Students in Civic Art & Design Studio (IN123), with professor [Catherine DʼIgnazio](http://www.kanarinka.com/), visualized 100 of the more than 6,000 citizen questions collected by the City of Boston as part of the GoBoston 2030 transportation planning process. [This video](https://www.youtube.com/watch?v=G3Q70ppWVSk) is realized as a large, projected public art installation. Are you interested in making your own gifs? There are lots of great resources on the web. Check out the [repo on making data-related animated gifs](https://github.com/lenagroeger/gifs) from [Lena Groeger](https://twitter.com/lenagroeger) of ProPublica.
 
+While not related directly to our topic, you may be interested in reviewing [Gene Kogan](https://twitter.com/genekogan)'s resources on [machine learning for artists](https://ml4a.github.io/). You can access tutorials, lots of background text, and more to get you started on a journey in this area. 
+
 ## Literature review ##
 Brehmer, M., & Munzner, T. (2013). [A multi-level typology of abstract visualization tasks](https://www.cs.ubc.ca/labs/imager/tr/2013/MultiLevelTaskTypology/brehmer_infovis13.pdf). IEEE Transactions on Visualization and Computer Graphics, 19(12), 2376-2385.
 
