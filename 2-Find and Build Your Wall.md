@@ -41,6 +41,13 @@ Students in Civic Art & Design Studio (IN123), with professor [Catherine DʼIgna
 
 While not related directly to our topic, you may be interested in reviewing [Gene Kogan](https://twitter.com/genekogan)'s resources on [machine learning for artists](https://ml4a.github.io/). You can access tutorials, lots of background text, and more to get you started on a journey in this area. 
 
+We are rarely good storytellers...but why? An article from PsychCentral explores [why most people are awful storytellers](https://psychcentral.com/news/2017/02/15/why-most-people-are-awful-storytellers/116460.html) and The Book of Life provides some tips on [how to narrate your dreams](http://www.thebookoflife.org/how-to-narrate-your-dreams/). Even better, check out [The Art of Storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling), a free course from Pixar. It is part of their [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) program that helps you learn how their artists do their jobs.
+
+Browse the [projects from the Tactical Technology Collective](https://tacticaltech.org/projects/all). These focus on three themes: politics of data, digital security and privacy, and exposing and shaping issues. [The White Room](https://tacticaltech.org/WhiteRoom) is highly recommended. You can also watch Marek Tuszynski speak about the project in this [Eyeo 2016 presentation](https://vimeo.com/178236532).
+
+A pop-up shop in London will trade you your data for something you want to buy. Take a look [inside the store that only accepts personal data as currency](https://www.engadget.com/2017/09/07/data-dollar-store-london-ben-eine/).
+
+
 ## Literature review ##
 Brehmer, M., & Munzner, T. (2013). [A multi-level typology of abstract visualization tasks](https://www.cs.ubc.ca/labs/imager/tr/2013/MultiLevelTaskTypology/brehmer_infovis13.pdf). IEEE Transactions on Visualization and Computer Graphics, 19(12), 2376-2385.
 
