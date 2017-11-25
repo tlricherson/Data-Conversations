@@ -15,6 +15,12 @@ We can use our stories to [recover unusual histories](https://vimeo.com/17904081
 
 What do we do about missing data...and why is it missing in the first place? [Mimi Onuoha](https://twitter.com/thistimeitsmimi) has started a repo to [explore this topic](https://github.com/MimiOnuoha/missing-datasets). At the 2016 Tapestry Conference, [Eva Galanes-Rosenbaum](https://twitter.com/NotoriousEGR) shared that [the plural of anecdote is not "data"...except when it is](http://www.tapestryconference.com/blog/2016/plural-anecdote-not-data%E2%80%94except-when-it) as a way to show how we can mitigate the effects of missing data. You may also be interested in this recent post on [four methods to deal with missing data](https://blog.socialcops.com/academy/resources/4-methods-missing-data/). More importantly, what are we saying when our choice is not to include particular data? Watch the 2016 Eyeo presentation, [Setting Tangents around a Circle](https://vimeo.com/176869833), from [Josh Begley](https://twitter.com/joshbegley) to learn more.
 
+All work with data---from the labels we choose to the charts we design---has potential inequitable impacts. Lena Groeger writes about some of these in [Forms Matter](https://source.opennews.org/articles/forms-matter/): how the design of forms can decide an election, affect racial profiling & shape identity
+
+Read [Miriam Posner](https://twitter.com/miriamkp)'s summary of her keynote on [The radical potential of the Digital Humanities: The most challenging computing problem is the interrogation of power](http://blogs.lse.ac.uk/impactofsocialsciences/2015/08/12/the-radical-unrealized-potential-of-digital-humanities/) to think more about structures of power, like race and gender, as they relate to how we use data.
+
+[Lauren Klein](https://twitter.com/laurenfklein) has written about [visualization as argument](http://lklein.com/2014/12/visualization-as-argument/). You may also be interested in her presentation on [feminist data visualization](http://www.northeastern.edu/nulab/lauren-klein-feminist-data-visualization/) or view [all of her projects](http://dhlab.lmc.gatech.edu/projects/).
+
 
 ## Literature review ##
 Bardzell, S. (2010, April). [Feminist HCI: taking stock and outlining an agenda for design](https://pdfs.semanticscholar.org/61f2/408e1b510e5b10617abf947adfb5a35e8646.pdf). In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 1301-1310). ACM.
