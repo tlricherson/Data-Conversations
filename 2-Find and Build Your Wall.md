@@ -6,6 +6,15 @@ So, you're ready to build a data story. Now that you have your idea (and a wall 
 <img src="https://github.com/tlricherson/Data-Conversations/blob/master/graphics/Storytelling.png" align="center" height="200">
 </p>
 
+## Tell me a story ##
+We are rarely good storytellers...but why? An article from PsychCentral explores why [most people are awful storytellers](https://psychcentral.com/news/2017/02/15/why-most-people-are-awful-storytellers/116460.html) and The Book of Life provides some tips on [how to narrate your dreams](http://www.thebookoflife.org/how-to-narrate-your-dreams/). Even better, check out [The Art of Storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling), a free course from Pixar. It is part of their [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) program that helps you learn how their artists do their jobs.
+
+Learn more about Kurt Vonnegut's [diagrams of stories](https://www.washingtonpost.com/news/wonk/wp/2015/02/09/kurt-vonnegut-graphed-the-worlds-most-popular-stories/?utm_term=.7faeb0f90a4a).
+
+Explore the [infernal topography](http://www.alpacaprojects.com/inferno/en/) based on Dante's Inferno. 
+
+Some Twitter bots may provoke your thinking about the difference between *looking* and *seeing*. Follow the [picsdescbot](https://twitter.com/picdescbot) and [What do you see?](https://twitter.com/tinydotblot). Or, go old school and check out some [droodles](https://en.wikipedia.org/wiki/Droodles).
+
 ## Inspiration ##
 Check out [Dear Data](http://www.dear-data.com/theproject), "a year-long, analog data drawing project by [Giorgia Lupi](https://twitter.com/giorgialupi) and [Stefanie Posavec](https://twitter.com/stefpos), two award-winning information designers living on different sides of the Atlantic. By collecting and hand drawing their personal data and sending it to each other in the form of postcards, they became friends."
 
@@ -30,23 +39,12 @@ ProPublica has shared all of materials from their [Data Institute](https://www.p
 
 [Enrico Bertini](https://twitter.com/FILWD) posts all of his NYU [course materials on information visualization](http://enrico.bertini.io/teaching/), as does [Nick Sousanis](https://twitter.com/Nsousanis) for his classes on [comics as a way of thinking](http://spinweaveandcut.com/comics-as-thinking-15/).
 
-## Bunny trails ##
-Learn more about Kurt Vonnegut's [diagrams of stories](https://www.washingtonpost.com/news/wonk/wp/2015/02/09/kurt-vonnegut-graphed-the-worlds-most-popular-stories/?utm_term=.7faeb0f90a4a).
-
-Explore the [infernal topography](http://www.alpacaprojects.com/inferno/en/) based on Dante's Inferno. 
-
-Some Twitter bots may provoke your thinking about the difference between *looking* and *seeing*. Follow the [picsdescbot](https://twitter.com/picdescbot) and [What do you see?](https://twitter.com/tinydotblot). Or, go old school and check out some [droodles](https://en.wikipedia.org/wiki/Droodles).
-
-Students in Civic Art & Design Studio (IN123), with professor [Catherine DʼIgnazio](http://www.kanarinka.com/), visualized 100 of the more than 6,000 citizen questions collected by the City of Boston as part of the GoBoston 2030 transportation planning process. [This video](https://www.youtube.com/watch?v=G3Q70ppWVSk) is realized as a large, projected public art installation. Are you interested in making your own gifs? There are lots of great resources on the web. Check out the [repo on making data-related animated gifs](https://github.com/lenagroeger/gifs) from [Lena Groeger](https://twitter.com/lenagroeger) of ProPublica.
-
 While not related directly to our topic, you may be interested in reviewing [Gene Kogan](https://twitter.com/genekogan)'s resources on [machine learning for artists](https://ml4a.github.io/). You can access tutorials, lots of background text, and more to get you started on a journey in this area. 
 
-We are rarely good storytellers...but why? An article from PsychCentral explores [why most people are awful storytellers](https://psychcentral.com/news/2017/02/15/why-most-people-are-awful-storytellers/116460.html) and The Book of Life provides some tips on [how to narrate your dreams](http://www.thebookoflife.org/how-to-narrate-your-dreams/). Even better, check out [The Art of Storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling), a free course from Pixar. It is part of their [Pixar in a Box](https://www.khanacademy.org/partner-content/pixar) program that helps you learn how their artists do their jobs.
-
+## Power, privacy, and access ##
 Browse the [projects from the Tactical Technology Collective](https://tacticaltech.org/projects/all). These focus on three themes: politics of data, digital security and privacy, and exposing and shaping issues. [The White Room](https://tacticaltech.org/WhiteRoom) is highly recommended. You can also watch Marek Tuszynski speak about the project in this [Eyeo 2016 presentation](https://vimeo.com/178236532).
 
 A pop-up shop in London will trade you your data for something you want to buy. Take a look [inside the store that only accepts personal data as currency](https://www.engadget.com/2017/09/07/data-dollar-store-london-ben-eine/).
-
 
 ## Literature review ##
 Brehmer, M., & Munzner, T. (2013). [A multi-level typology of abstract visualization tasks](https://www.cs.ubc.ca/labs/imager/tr/2013/MultiLevelTaskTypology/brehmer_infovis13.pdf). IEEE Transactions on Visualization and Computer Graphics, 19(12), 2376-2385.
