@@ -2,6 +2,10 @@
 
 The typical *data wall* in a school or classroom may represent one type of story. But what are the attributes that identify it as one? How is a story using data similar to or different from traditional narratives? 
 
+<p align="center"> 
+<img src="https://github.com/tlricherson/Data-Conversations/blob/master/graphics/Someone%20Story.png" align="center" height="200">
+</p>
+
 ## Traditional data walls ##
 [Data walls](https://twitter.com/search?q=%23datawall&src=typd) and [data binders](https://twitter.com/search?q=data%20binder&src=typd) are two of the most common types of semi-public data displays. There are entire [district cultures devoted to using these](http://qualitycommunityschools.weebly.com/data-walls.html), as well as a network of resources through the [sharing economy of blogs](http://www.thecurriculumcorner.com/thecurriculumcorner123/2014/07/student-data-binder/) and sources like Teacher Pay Teachers. 
 
