@@ -3,7 +3,7 @@
 The typical *data wall* in a school or classroom may represent one type of story. But what are the attributes that identify it as one? How is a story using data similar to or different from traditional narratives? 
 
 <p align="center"> 
-<img src="https://github.com/tlricherson/Data-Conversations/blob/master/graphics/Someone%20Story.png" align="center" height="100">
+<img src="https://github.com/tlricherson/Data-Conversations/blob/master/graphics/Someone%20Story.png" align="center" height="150">
 </p>
 
 ## Traditional data walls ##
