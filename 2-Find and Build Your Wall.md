@@ -23,7 +23,7 @@ Visit the Pinterest sites of [Jon Schwabish](https://www.pinterest.com/jonschwab
 [Mona Chalabi](https://twitter.com/MonaChalabi) has an [Instagram](https://www.instagram.com/monachalabi/) feed of her hand drawn charts on a variety of topics. Also, have a look the work of [Catherine Madden](https://twitter.com/catmule) who integrates data, design, and drawing.
 
 ## Tools and strategies ##
-* There are any number of collections of data viz options. For chart ideas, take a look at the [Data Viz Project](http://datavizproject.com), [The Chartmaker Directory](http://chartmaker.visualisingdata.com/), or [The Data Visualization Catalogue](http://www.datavizcatalogue.com/).
+* There are any number of collections of data viz options. For chart ideas, take a look at the [Data Viz Project](http://datavizproject.com), [The Chartmaker Directory](http://chartmaker.visualisingdata.com/), or [The Data Visualization Catalogue](http://www.datavizcatalogue.com/). Google News Lab and Adioma have just released the [Visualization Universe](http://visualizationuniverse.com/), a comprehensive site for books, charts, and tools about all things visualization.
 * [Qualitative Chart Chooser](http://stephanieevergreen.com/wp-content/uploads/2016/11/Qualitative-Chooser-2.0.pdf) by Stephanie Evergreen
 * [Chart Suggestions: A Thought Starter](http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) by Andrew Abela
 * [The Graphic Continuum](https://policyviz.com/2014/09/09/graphic-continuum/) by Jon Schwabish
