@@ -33,6 +33,9 @@ Learn more about [responsible data use](https://blogs.microsoft.com/newyork//201
 
 What do we do about missing data...and why is it missing in the first place? [Mimi Onuoha](https://twitter.com/thistimeitsmimi) has started a repo to [explore this topic](https://github.com/MimiOnuoha/missing-datasets). At the 2016 Tapestry Conference, [Eva Galanes-Rosenbaum](https://twitter.com/NotoriousEGR) shared that [the plural of anecdote is not "data"...except when it is](http://www.tapestryconference.com/blog/2016/plural-anecdote-not-data%E2%80%94except-when-it) as a way to show how we can mitigate the effects of missing data. You may also be interested in this recent post on [four methods to deal with missing data](https://blog.socialcops.com/academy/resources/4-methods-missing-data/). More importantly, what are we saying when our choice is not to include particular data? Watch the 2016 Eyeo presentation, [Setting Tangents around a Circle](https://vimeo.com/176869833), from [Josh Begley](https://twitter.com/joshbegley) to learn more.
 
+## Connect ##
+Want to see the work of others? Check out the [Data Murals](https://datatherapy.org/data-mural-gallery/) project led by MIT. You can explore the tools and activities used to develop these murals over at [Data Culture](https://databasic.io/en/culture/).
+
 ## Literature review ##
 Bardzell, S. (2010, April). [Feminist HCI: taking stock and outlining an agenda for design](https://pdfs.semanticscholar.org/61f2/408e1b510e5b10617abf947adfb5a35e8646.pdf). In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 1301-1310). ACM.
 
