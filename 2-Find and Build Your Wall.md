@@ -39,6 +39,8 @@ Sometimes, as data designers, you have to [kill your darlings](http://www.slate.
 ## Build more background knowledge ##
 ProPublica has shared all of materials from their [Data Institute](https://www.propublica.org/nerds/announcing-free-videos-and-training-materials-from-the-propublica-data-institute). You can access slides, handouts, and videos of the work they do with journalists to present data on the web.
 
+Over at the Wikimedia Foundation, Mikhail Popov "shared a workshop on how to interpret different types of statistical graphics and how to glean insights from them. The [workshop is now available on a website](https://blog.wikimedia.org/2018/02/21/data-visualization-literacy-workshop/) for everyone to learn from."
+
 [Enrico Bertini](https://twitter.com/FILWD) posts all of his NYU [course materials on information visualization](http://enrico.bertini.io/teaching/), as does [Nick Sousanis](https://twitter.com/Nsousanis) for his classes on [comics as a way of thinking](http://spinweaveandcut.com/comics-as-thinking-15/).
 
 While not related directly to our topic, you may be interested in reviewing [Gene Kogan](https://twitter.com/genekogan)'s resources on [machine learning for artists](https://ml4a.github.io/). You can access tutorials, lots of background text, and more to get you started on a journey in this area. 
